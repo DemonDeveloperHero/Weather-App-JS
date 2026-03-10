@@ -27,12 +27,19 @@ Search for any city and get real-time weather information using the **OpenWeathe
 
 
 weather-app-js/
+
 ├── index.html
+
 ├── css/
+
 │ └── style.css
+
 ├── js/
+
 │ └── script.js
+
 ├── README.md
+
 └── .gitignore
 
 
