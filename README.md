@@ -50,6 +50,7 @@ Get a free API key from OpenWeatherMap
 Open js/script.js and replace YOUR_OPENWEATHERMAP_API_KEY with your API key
 
 Open index.html in your browser
+```
 
 
 📄 License
